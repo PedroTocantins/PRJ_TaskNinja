@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1g8w1x80HXU5/woWGToN9ZAvWjBlx+M8ARdIu/FoEXE=",
+  "Source": "TaskNinja.API",
+  "BasePath": "_content/TaskNinja.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

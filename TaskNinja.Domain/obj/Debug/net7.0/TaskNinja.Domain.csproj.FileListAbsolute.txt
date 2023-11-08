@@ -1,0 +1,12 @@
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\bin\Debug\net7.0\TaskNinja.Domain.deps.json
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\bin\Debug\net7.0\TaskNinja.Domain.dll
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\bin\Debug\net7.0\TaskNinja.Domain.pdb
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.csproj.AssemblyReference.cache
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.AssemblyInfoInputs.cache
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.AssemblyInfo.cs
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.csproj.CoreCompileInputs.cache
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.dll
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\refint\TaskNinja.Domain.dll
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\TaskNinja.Domain.pdb
+C:\TaskNinja\TaskNinjaSln\TaskNinja.Domain\obj\Debug\net7.0\ref\TaskNinja.Domain.dll
