@@ -5,11 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaskNinja.Domain.Core.Data;
+using TaskNinja.Domain.Models;
 using TaskNinja.Infrastructure.Data;
 
 namespace TaskNinja.Infrastructure.Repository
 {
-    public class Repository<TEntity, TKey> : IRepository<TEntity, TKey> where TEntity : class
+    public class Repository<TEntity, TKey> : IRepository<TEntity, TKey> where TEntity : BaseModel
     {
         protected readonly DataContext _dataContext;
         protected DbSet<TEntity> _entity;
